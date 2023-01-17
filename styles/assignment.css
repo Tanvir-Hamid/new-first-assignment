@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans';
+}
+.banner{
+    background-image: url('../images/banner/banner3.png');
+    width: 1600px;
+    height: 837px;
+    padding-top: 60px;
+}
+
+.text-title{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 76px;
+    text-align: left;
+   padding-left: 80px;
+   
+}
+
+.banner-description{
+    color: #FFFFFF;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    padding-left: 80px;
+}
+
+.btn-primary{
+    width: 160px;
+    height: 64px;
+    top: 578px;
+    border-radius: 10px;
+    margin-left: 80px;
+    color: #005FAC;
+}
+
+.main-title{
+margin-left: 800px;
+margin-top: 200px;
+
+}
+
+.main-sub-title{
+    font-weight: 700;
+    font-size: 40px;
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+}
+
+.main-description{
+    font-weight: 400;
+    font-size: 16px;
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1296px;
+
+}
+.main-list{
+    width: 349px;
+    height: 162px;
+    left: 862px;
+    top: 1416px;
+    
+
+}
+
+.ladis{
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+    
+}

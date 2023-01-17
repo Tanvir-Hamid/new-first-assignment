@@ -115,3 +115,29 @@ margin-top: 200px;
     font-size: 40px;
     line-height: 47px;
 }
+
+footer{
+    background-color: black;
+    display: flex;
+    position: absolute;
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    top: 2652.26px;
+}
+
+.footer-left{
+    color: white;
+    position: absolute;
+    padding-right: 900px;
+}
+
+.footer-title{
+    color: white;
+}
+
+.footer-right{
+    color: white;
+    position: absolute;
+    padding-left: 900px;
+}

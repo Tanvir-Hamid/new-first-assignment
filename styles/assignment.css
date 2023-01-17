@@ -75,6 +75,29 @@ margin-top: 200px;
     width: 569px;
     height: 723.3px;
     left: 206px;
-    top: 939px;
-    
+    top: 939px;   
 }
+
+.section-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 250px;
+
+}
+
+.plan-container{
+    display: flex;
+    margin-left: 750px;
+    gap: 25px;
+}
+.skill{
+    align-items: center;
+    padding-left: 20px;
+}
+.skill-description{
+    color: #737272;
+}
+
+
+

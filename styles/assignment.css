@@ -99,5 +99,19 @@ margin-top: 200px;
     color: #737272;
 }
 
+.gradiant{
+    position: absolute;
+    background-image: url('../images/watch.png'), url('../images/gradient3.png');
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2222.26px;
+    border-radius: 8px;
+}
 
-
+.gra-pera{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
